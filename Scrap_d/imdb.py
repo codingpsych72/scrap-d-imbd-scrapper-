@@ -85,7 +85,8 @@ time.sleep(0.1)
 print("\n")
 for count,movie in enumerate(splitted_new2,1):
     print("{0}:::{1}".format(count,movie))
-#print("@@@@@@@@@@@@@@@@@@@") 
+print("\n")
+print("See you with more features in the next updatessszzz......:)")
 
     
     
